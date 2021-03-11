@@ -1,0 +1,25 @@
+body{
+    background-color: #282c34;
+}
+.information-area{
+    display: flex;
+    padding-left: 60px;
+}
+
+.team-information{
+    border: 2px solid red;
+    width: 80%;
+    color: white;
+    background-color: blue;
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 40px;
+    border-radius: 5px;
+}
+.team-image{
+    padding-right: 60px;
+}
+.description{
+    text-align: justify;
+    color: white;
+}

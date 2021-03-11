@@ -1,0 +1,13 @@
+body{
+    color: black;
+}
+
+.singleTeam-area{
+    display: grid;
+    position: relative;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+button{
+    background-color: #3A42FF;
+}
